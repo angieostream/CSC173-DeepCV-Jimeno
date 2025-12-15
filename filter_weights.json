@@ -1,0 +1,6 @@
+{
+    "parameters": {
+        "min_cutoff": 1.0,
+        "beta": 0.05
+    }
+}
